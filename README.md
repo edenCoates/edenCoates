@@ -1,8 +1,8 @@
 ### Hello!
-I'm Eden Coates, a recent college graduate, and I'm interested in becoming a programmer.
-My favorite languages to write in are C++ and C, but I've written in Python and Java as well (and enjoyed them).
-Currently, this page houses school projects from college, since my personal projects aren't quite at the level where they an be put up here.
-But stay tuned! If you have any questions, feel free to email me at eden.coates@gmail.com
+I'm Eden Coates, a recent college graduate, and I'm interested in becoming a programmer. <br />
+My favorite languages to write in are C++ and C, but I've written in Python and Java as well (and enjoyed them).<br />
+Currently, this page houses school projects from college, since my personal projects aren't quite at the level where they an be put up here.<br />
+But stay tuned! If you have any questions, feel free to email me at eden.coates@gmail.com<br />
 
 <!--
 **edenCoates/edenCoates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
